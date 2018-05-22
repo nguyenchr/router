@@ -1,0 +1,3 @@
+--recursive
+--require test/support/test-helper.js
+--timeout 5000
